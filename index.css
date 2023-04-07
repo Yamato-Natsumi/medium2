@@ -1,0 +1,23 @@
+
+main{
+  margin:0 30px;
+}
+
+main img{
+  width:100%;  
+}
+
+main p{
+  margin: 0;
+  font-size: 13px;
+}
+
+.text{
+  margin: 10px 0 30px 0;
+}
+
+.more{
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 100px;
+}
